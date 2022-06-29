@@ -4,7 +4,7 @@ package main;
     import java.util.Arrays;
 import java.util.Scanner;
 
-    // написать программу, которая приветствует пользователя в зависимости от введенных имени и возраста
+    // написать программу, которая приветствует пользователя в зависимости от введенных имени и возраста!
     public class greeting {
 
         public static void main(String[] args) {
